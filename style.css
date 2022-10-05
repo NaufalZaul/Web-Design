@@ -341,7 +341,7 @@ html,
     }
 }
 
-@media screen and (max-width: 376px) {
+@media screen and (min-width: 376px) {
 
     .column-card,
     .box-partners,
